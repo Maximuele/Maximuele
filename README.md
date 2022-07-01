@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mark Okot @Maximuele
-- 👀 I'm skilling myself to become webstack developer
+- 👀 I'm skilling myself to become a full webstack developer
 - 🌱 I’m currently participating in a 12 months Alx software Engineering bootcamp
 - 🌱Participating in google Africa Associate android developer training
 - 💞️ I’m looking to collaborate on with anyone interested in programming
